@@ -1,9 +1,9 @@
 <!-- bridge.md, sceext2/doc/, (sceext <sceext@foxmail.com>)
-   - test201602131827
+   - test201602241954
   -->
 
 # bridge
-`sceext` `2016-02-13 T 18:27 GMT+0800 CST`
+`sceext` `2016-02-24 T 19:54 GMT+0800 CST`
 
 
 ## list
@@ -26,7 +26,7 @@
 + `[bridge 6]` **ah_bridge** TODO <br />
   &lt;github: sceext2/eahb/&gt;
 
-+ `[bridge 7]` **handwich_bridge** doing NOW <br />
++ `[bridge 7]` **handwich_bridge** <br />
   &lt;github: sceext2/kill_cmodule/tree/handwich_bridge/&gt;
   
   *Http version of the sANDWICH_BRIDGE* bridge. 
@@ -34,6 +34,8 @@
 + `[bridge 8]` **ls_bridge** TODO <br />
   *Lyyc webSocket* bridge. (eshs)
 
++ `[bridge 9]` **ps_bridge** TODO <br />
+  *Passthrough Socket* bridge (for *lyyc*). (eshs)
 
 <!-- end bridge.md -->
 
