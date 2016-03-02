@@ -1,9 +1,9 @@
 <!-- bridge.md, sceext2/doc/, (sceext <sceext@foxmail.com>)
-   - test201602271839
+   - test201603021746
   -->
 
 # bridge
-`sceext` `2016-02-27 T 18:39 GMT+0800 CST`
+`sceext` `2016-03-02 T 17:46 GMT+0800 CST`
 
 
 ## list
@@ -30,12 +30,18 @@
   &lt;github: sceext2/kill_cmodule/tree/handwich_bridge/&gt;
   
   *Http version of the sANDWICH_bridge* bridge. 
+  
+  *default (IP) port:* `127.0.0.1:48271`
 
-+ `[bridge 8]` *ls_bridge* TODO <br />
++ `[bridge 8]` *ls_bridge* doing NOW <br />
   *Lyyc webSocket* bridge. (eshs)
+  
+  *default (IP) port:* `127.0.0.1:48272`
 
 + `[bridge 9]` *ps_bridge* TODO <br />
   *Passthrough Socket* bridge (for *lyyc*). (eshs)
+  
+  *default (IP) port:* `127.0.0.1:48273`
 
 <!-- end bridge.md -->
 
